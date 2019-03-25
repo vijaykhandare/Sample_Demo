@@ -1,7 +1,7 @@
 class Q
 {
 int num; // this is line
-boolean valueset=false;
+boolean valueset=false;//this is boolean value
 
 
 	public synchronized void put(int  num) 
